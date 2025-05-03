@@ -1,0 +1,7 @@
+# Virtual environment directories
+env/
+
+# Ignore Images
+image.png
+image2.png
+Screenshot (1).png
